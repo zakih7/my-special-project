@@ -3,3 +3,5 @@ Details for my special project will be noted here
 The first detail is that I need a cool project name
 
 The second detail is a secret
+
+The third detail is practice
